@@ -4,17 +4,36 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cocktails</title>
-    <!-- font-awesome -->
+    <!-- FA -->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
     />
-    <!-- css -->
+    <!-- CSS -->
     <link rel="stylesheet" href="./styles.css" />
   </head>
-
   <body>
-    <h1>drinks page</h1>
+
+    <!-- Search Form -->
+  <form class="search-form">
+    <h2>Cocktails API</h2>
+    <input type="text" placeholder="Search your favourite cocktail!" name="drink">
+  </form>
+
+  <section class="section cocktails">
+
+    <!-- Handle page Loading -->
+    <article class='loading'>
+      <img src="./loading.gif" alt="Loading Animation">
+    </article>
+
+    <!-- Page Contents -->
+
+    <h2 class="title">Dummy Value</h2>
+    <div class="section-center"></div>
+    
+  </section>
+    
     <script type="module" src="./app.js"></script>
   </body>
 </html>
