@@ -10,7 +10,7 @@ const myImg = document.querySelector('img');
 myButton.addEventListener('click', async () => {
 
     try {
-        const data = await fetch(apiUrl); // Wait for data to be returned.
+        const fetchData = await fetch(apiUrl); // Wait for data to be returned.
         const response = await fetchData.json() // Wait for promise to be settled.
         displayData(response); 
     } catch (error) {
