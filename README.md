@@ -4,4 +4,4 @@ This repo is a combination of the studies I have been doing over the 2021 Christ
 
 I hope that this solid foundation will enable me to develop some killer React-Native cross platform applications over 2022.
 
-## Please contact me if you would like to see any of the accompanying notes for each section.
+## Please contact me if you would like to see any of the accompanying notes for each section!
