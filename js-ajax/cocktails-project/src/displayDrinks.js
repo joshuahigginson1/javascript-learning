@@ -43,11 +43,6 @@ const displayDrinks = ({ drinks }) => {
 
     sectionCenter.innerHTML = newDrinks;
     return sectionCenter;
-
-    // Hide loading.
-
-    console.log(drinks);
-
 };
 
 export default displayDrinks

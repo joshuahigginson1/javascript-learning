@@ -19,6 +19,10 @@ const displaySingleDrink = (data) => {
         drink.strIngredient6,
         drink.strIngredient7,
         drink.strIngredient8,
+        drink.strIngredient9,
+        drink.strIngredient10,
+        drink.strIngredient11,
+        drink.strIngredient12,
     ];
 
     document.title = drinkName;
@@ -40,7 +44,7 @@ const displaySingleDrink = (data) => {
         return `<li><i class="far fa-check-square"></i>${ingredient}</li>`;
     }).join("");
     
-    console.log(drink, drinkIngredientsList);
+    // console.log(drink, drinkIngredientsList);
 
 }
 
