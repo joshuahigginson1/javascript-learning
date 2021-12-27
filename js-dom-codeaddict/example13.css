@@ -1,0 +1,28 @@
+.red {
+    background-color: red;
+    color:whitesmoke;
+}
+.orange {
+    background-color: orange;
+    color:darkred;
+}
+.yellow {
+    background-color: yellow;
+    color:black;
+}
+.green {
+    background-color: darkgreen;
+    color:white;
+}
+.blue {
+    background-color: lightblue;
+    color:darkblue;
+}
+.indigo {
+    background-color: indigo;
+    color:whitesmoke;
+}
+.violet {
+    background-color: violet;
+    color:black;
+}
