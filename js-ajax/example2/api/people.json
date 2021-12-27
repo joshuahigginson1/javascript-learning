@@ -1,0 +1,6 @@
+[
+    {"firstName": "John", "id": 1, "favouriteFruits": ["Apple", "Orange", "Banana"]},
+    {"firstName": "Peter", "id": 2, "favouriteFruits": ["Peach", "Pear"]},
+    {"firstName": "Anna", "id": 3, "favouriteFruits": ["Pineapple", "Tomato"]},
+    {"firstName": "Susan", "id": 4, "favouriteFruits": ["Pear", "Banana"]}
+]
